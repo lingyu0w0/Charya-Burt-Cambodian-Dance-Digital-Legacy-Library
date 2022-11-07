@@ -1,5 +1,9 @@
-Create vimeo record updater so we can batch edit vimeo Records
+list which fields are used in which scripts
 
-probably should rewrite vimeo mass uploader since i'm handling airtable records better now and it shouldn't crash
+discuss taxonomy in documentation (what is an album vs a video? why?)
 
-How about this: as long as it's NOT marked "Test Record" "Empty Record" or "Deaccessioned Record", it's considered "In Library". 
+One thing: for dependency paths, can you also document where we need to manually change the python3 path?
+
+And if you don't mind, you can also mention that from macOS Big Sur (I think) the path seems to be opt/homebrew/bin for all the dependencies.
+
+future thoughts: handling programs/events? more dance-specific objects?
